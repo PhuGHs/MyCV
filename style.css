@@ -72,7 +72,7 @@ button {
 }
 
 .bg_image {
-    background-image: url(./images/pattern-background-mobile.svg) no-repeat center/ cover;
+    background-image: url(pattern-background-mobile.svg) no-repeat center/ cover;
     height: 400px;
     position: absolute;
     bottom: 0;
@@ -145,7 +145,7 @@ button {
 
 @media (min-width: 768px) {
     .bg_image {
-        background: url(./images/pattern-background-desktop.svg) no-repeat center/ cover;
+        background: url(pattern-background-desktop.svg) no-repeat center/ cover;
         height: 50vh;
     }
 
